@@ -6,8 +6,8 @@ This project requires Python 3.x and the following Python libraries installed:
 - [NumPy](http://www.numpy.org/)
 - [Pandas](http://pandas.pydata.org)
 - [matplotlib](http://matplotlib.org/)
-- [Seaborn] (https://seaborn.pydata.org/) (for data visualization) The code should run with no issues using Python versions 3.*.
-- [Sklearn / scikit-learn] (https://scikit-learn.org/stable/) 
+- [Seaborn](https://seaborn.pydata.org/) (for data visualization) The code should run with no issues using Python versions 3.*.
+- [scikit-learn](https://scikit-learn.org/stable/) 
 
 You will also need to have software installed to run and execute an iPython Notebook
 
