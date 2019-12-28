@@ -73,9 +73,15 @@ These segments are relatively popular in the customers: 1) Etimated age 2) Gende
 **References**
 References
 https://stackoverflow.com/questions/59502854/how-do-i-perform-join-on-2-dataframes-that-have-same-number-of-rows-but-no-match/59503051?noredirect=1#comment105188086_59503051
+
 https://stackoverflow.com/questions/59505335/how-to-create-a-histogram-for-a-dataframe-with-just-1-column-and-multiple-rows/59505450#59505450
+
 https://stackoverflow.com/questions/18022845/pandas-index-column-title-or-name
+
 https://jakevdp.github.io/PythonDataScienceHandbook/05.09-principal-component-analysis.html
+
 https://github.com/joshuayeung/Creating-Customer-Segments-with-Arvato/blob/master/Identify_Customer_Segments.ipynb
+
 https://github.com/chauhan-nitin/Udacity-IdentifyCustomerSegments-Arvato/blob/master/Identify_Customer_Segments.ipynb
+
 https://ro-che.info/articles/2017-12-11-pca-explained-variance
