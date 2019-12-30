@@ -71,7 +71,6 @@ The repo contains a .ipynb file that does the following:
 •	**Note**: The co-relation as a part of the unsupervised segmentation done may not be most accurate as you see all variables w/ positive impact don't match entirely across population and customer dataset, however the explained variance can be changed to see the impact
 
 **References**
-References
 https://stackoverflow.com/questions/59502854/how-do-i-perform-join-on-2-dataframes-that-have-same-number-of-rows-but-no-match/59503051?noredirect=1#comment105188086_59503051
 
 https://stackoverflow.com/questions/59505335/how-to-create-a-histogram-for-a-dataframe-with-just-1-column-and-multiple-rows/59505450#59505450
